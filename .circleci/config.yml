@@ -39,12 +39,7 @@ jobs:
       - attach_workspace:
           at: .
       - deploy:
-          command: |
-            if [ -z "$GITHUB_TOKEN" ] || [ -z "$NPM_TOKEN" ]; then
-              circleci-agent step halt
-            else
-              npx semantic-release
-            fi
+          command: npx semantic-release
 
 workflows:
   version: 2
