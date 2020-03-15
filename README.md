@@ -1,4 +1,4 @@
-#  dotfiles
+# dotfiles
 
 New High Score reusable dotfiles
 
