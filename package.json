@@ -36,6 +36,9 @@
       "@newhighsco"
     ]
   },
+  "release": {
+    "extends": "@newhighsco/release-config"
+  },
   "renovate": {
     "extends": [
       "@newhighsco"
