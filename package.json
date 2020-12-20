@@ -1,5 +1,5 @@
 {
-  "name": "@newhighsco/dotfiles",
+  "name": "@newhighsco/create",
   "description": "New High Score shareable dotfiles",
   "version": "1.0.2",
   "author": "New High Score <hello@newhighsco.re>",
@@ -7,11 +7,11 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/newhighsco/dotfiles.git"
+    "url": "https://github.com/newhighsco/create.git"
   },
-  "homepage": "https://github.com/newhighsco/dotfiles#readme",
+  "homepage": "https://github.com/newhighsco/create#readme",
   "bugs": {
-    "url": "https://github.com/newhighsco/dotfiles/issues"
+    "url": "https://github.com/newhighsco/create/issues"
   },
   "scripts": {
     "test": "npm run lint",
