@@ -4,6 +4,18 @@ New High Score package initialization template
 
 ## Usage
 
-`npm init @newhighsco` or `yarn create @newhighsco`
+Using `npm`
+
+```
+npm init @newhighsco <name>
+// or
+npx @newhighsco/create <name>
+```
+
+Using `yarn`
+
+```
+yarn create @newhighsco <name>
+```
 
 ## [CHANGELOG](CHANGELOG.md)
