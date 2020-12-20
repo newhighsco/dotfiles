@@ -14,6 +14,10 @@
   },
   "main": "src/index.js",
   "bin": "src/index.js",
+  "files": [
+    "src",
+    "template"
+  ],
   "scripts": {
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
