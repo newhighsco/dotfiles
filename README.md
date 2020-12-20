@@ -1,9 +1,9 @@
 # create
 
-New High Score reusable dotfiles
+New High Score package initialization template
 
 ## Usage
 
-Copy and paste into projects as needed
+`npm init @newhighsco` or `yarn create @newhighsco`
 
 ## [CHANGELOG](CHANGELOG.md)
